@@ -1,0 +1,7 @@
+regla,filas_eliminadas,monto_gbp
+a) duplicados exactos,5268,21740.98
+b) factura con prefijo A (ajuste contable),3,-11062.06
+c) venta anulada por cancelación manual (M),17,39033.26
+d) StockCode que no es producto,2902,-34937.509
+e) precio <= 0,2496,0.0
+f) cantidad negativa sin 'C',0,0.0
